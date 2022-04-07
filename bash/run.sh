@@ -1,0 +1,1 @@
+cd ~/tfNestedEsxiVcenterNsxAvi ; /bin/bash destroy.sh ; cd ~ ; rm -fr tfNestedEsxiVcenterNsxAvi ; git clone https://github.com/tacobayle/tfNestedEsxiVcenterNsxAvi ; cd tfNestedEsxiVcenterNsxAvi ; /bin/bash apply.sh
