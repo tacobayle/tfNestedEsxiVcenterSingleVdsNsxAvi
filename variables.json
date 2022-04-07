@@ -13,7 +13,8 @@
     },
     "network": {
       "name": "vxw-dvs-34-virtualwire-3-sid-1080002-sof2-01-vc08-avi-mgmt"
-    },
+    }
+  },
   "dns": {
     "nameserver": "10.41.134.134",
     "domain": "avi.com"
@@ -93,7 +94,6 @@
     "ceip_enabled": false,
     "dvs" : {
       "basename": "dvs",
-      "single_vds": true,
       "mtu": 1500,
       "discovery_protocol": "lldp",
       "version": "7.0.3",
